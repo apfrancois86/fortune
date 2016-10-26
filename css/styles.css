@@ -1,0 +1,18 @@
+#output {
+  display: none;
+}
+#output button {
+  float:right;
+  height: 200px;
+  width: 200px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: teal;
+}
+
+img {
+  border: 5px dotted red;
+  border-radius: 25%;
+}
